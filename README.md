@@ -7,16 +7,16 @@ To write a program to implement the SVM For Spam Mail Detection.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. **Load and Preprocess Data**: Load the spam dataset, label "spam" as 1 and "ham" as 0, and clean the text data.
+## Algorithm:
+1. Load and Preprocess Data: Load the spam dataset, label "spam" as 1 and "ham" as 0, and clean the text data.
 
-2. **Split Data**: Divide the dataset into training and testing sets.
+2. Split Data: Divide the dataset into training and testing sets.
 
-3. **Vectorize Text**: Convert text messages to numerical data using `CountVectorizer`.
+3. Vectorize Text: Convert text messages to numerical data using `CountVectorizer`.
 
-4. **Train SVM Model**: Train an SVM model with a linear kernel on the training set.
+4. Train SVM Model: Train an SVM model with a linear kernel on the training set.
 
-5. **Evaluate Model**: Test the model on the test set and evaluate using accuracy, precision, recall, and a confusion matrix.
+5. Evaluate Model: Test the model on the test set and evaluate using accuracy, precision, recall, and a confusion matrix.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
@@ -58,11 +58,16 @@ accuracy
 
 ## Output:
 
+SHAPE:
+![Screenshot 2024-11-14 110901](https://github.com/user-attachments/assets/7e6a58d4-03e8-4672-9d90-1bf9a2f5d675)
+
+
 PREDICTED VALUE:
-![image](https://github.com/user-attachments/assets/423baeda-b82d-47cc-b60c-b9d46848b627)
+![Screenshot 2024-11-14 110834](https://github.com/user-attachments/assets/71e1fce4-c87d-4e01-8cc9-7df985c6f5a5)
 
 ACCURACY:
-![image](https://github.com/user-attachments/assets/3ae74333-b846-42e8-aca5-89139112b960)
+
+![Screenshot 2024-11-14 110849](https://github.com/user-attachments/assets/9071ec1f-df93-4ea1-8222-8a6707ae7a33)
 
 
 ## Result:
