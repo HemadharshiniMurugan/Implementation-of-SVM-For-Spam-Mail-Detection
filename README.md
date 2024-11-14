@@ -12,7 +12,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 2. Split Data: Divide the dataset into training and testing sets.
 
-3. Vectorize Text: Convert text messages to numerical data using `CountVectorizer`.
+3. Vectorize Text: Convert text messages to numerical data using CountVectorizer.
 
 4. Train SVM Model: Train an SVM model with a linear kernel on the training set.
 
