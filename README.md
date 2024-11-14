@@ -59,11 +59,22 @@ accuracy
 ## Output:
 
 SHAPE:
+
+
 ![Screenshot 2024-11-14 110901](https://github.com/user-attachments/assets/7e6a58d4-03e8-4672-9d90-1bf9a2f5d675)
 
 
+
+
+
 PREDICTED VALUE:
+
+
+
 ![Screenshot 2024-11-14 110834](https://github.com/user-attachments/assets/71e1fce4-c87d-4e01-8cc9-7df985c6f5a5)
+
+
+
 
 ACCURACY:
 
